@@ -5,6 +5,7 @@ Le micro:bit (aussi noté BBC micro:bit ou micro bit) est un ordinateur à carte
 
  * [Carte micro:bit](https://microbit.org/buy/bbc-microbit-go)
  * [Vente en ligne des Kits Micro:bit](https://www.kubii.com/fr/189-kits-microbit)
+ * [Freenove Micro:Rover](https://www.freenove.com/)
 
 ## Programmer
  * [Make it: code it](https://microbit.org/fr/projects/make-it-code-it/)
