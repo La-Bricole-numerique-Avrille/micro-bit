@@ -1,1 +1,1 @@
-# micro-bit
+# micro:bit
